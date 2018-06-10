@@ -1,0 +1,8 @@
+main()
+{
+big();
+factorial();
+reverse();
+}
+
+
